@@ -1,0 +1,25 @@
+
+.chart-container {
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+background-color: #fff;
+}
+
+h2 {
+font-size: 1.5rem;
+margin-bottom: 20px;
+}
+
+.map-container {
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+background-color: #fff;
+}
+
+.map-container .leaflet-container {
+border-radius: 10px;
+}
